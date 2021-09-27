@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicholasKoldys
+- 👋 Hi, I’m @NicholasKoldys, Checkout this sweet portfolio I made @ https://NicholasKoldys.dev/
 - 👀 I’m interested in web / java / and game development!
 - 🌱 I’m currently learning node.js backend and RESTful apis.
 - 💞️ I’m looking to collaborate on junior positions involving web and/or java development.

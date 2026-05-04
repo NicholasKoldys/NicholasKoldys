@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @NicholasKoldys
-- 👀 I’m interested in web / java / and game development!
-- 🌱 I’m currently learning node.js backend and RESTful apis.
-- 💞️ I’m looking to collaborate on junior positions involving web and/or java development.
+- 🌱 I’m currently the developing the apps Lang Story & Cardinal Note
 - 📫 How to reach me, please visit my site at https://NicholasKoldys.dev/
 
 <!---
